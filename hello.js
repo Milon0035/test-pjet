@@ -1,4 +1,4 @@
-function myfunction(){
-    console.log("hello world");
+function myfunction(name){
+    console.log("hello", name);
 }
-myfunction();
+myfunction("Milon");
