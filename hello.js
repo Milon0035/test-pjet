@@ -12,9 +12,6 @@ const person={
 };
 console.log(person.occupation);
 
-function addnum(a,b){
-    return a+b;
 
-}
-let result=addnum(5,10);
-console.log(result);
+
+
